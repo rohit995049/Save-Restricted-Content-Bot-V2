@@ -20,7 +20,7 @@
     },
 
     "BOT_TOKEN": {
-      "description": "7425809549:AAF9xUQd2udyJNhU9VpC_ChdLsy9nyi1ml4",
+      "description": "7510959385:AAEOd5MsgJG96Hz4CqhqQ2SV-a3Plfo3mOI",
       "value": "",
       "required": true
     },
@@ -50,7 +50,7 @@
     },
 
     "LOG_GROUP": {
-      "description": "-1002201037850",
+      "description": "-1002173224465",
       "value": "",
       "required": true
     }
