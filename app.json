@@ -8,37 +8,37 @@
   "env": {
 
     "API_ID": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "27100684",
       "value": "",
       "required": true
     },
 
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "3d9ff72941b7c8ecafbadf7d625f0108",
       "value": "",
       "required": true
     },
 
     "BOT_TOKEN": {
-      "description": "A Bot's token from Botfather",
+      "description": "7387610234:AAExvXsNKRRf8McKmZ2EhlQgW6UphF4K0Ik",
       "value": "",
       "required": true
     },
 
     "MONGO_DB": {
-      "description": "Get a mongodb url from https://cloud.mongodb.com. Change following value from yours if you dont have mongodb you are risking the account hack ...",
+      "description": "mongodb+srv://rohitgadhwal707:HgH6pLpVnPKywqOR@cluster0.llxcl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
       "value": "",
       "required": true
     },
 
     "OWNER_ID": {
-      "description": "The user id of user whom you would like to add as OWNER.",
+      "description": "6200203086",
       "value": "",
       "required": true
     },
 
     "FORCESUB": {
-      "description": "Enter Forcesub channel username without '@'...",
+      "description": "save_bot_log",
       "value": "",
       "required": true
     },
@@ -46,11 +46,11 @@
     "PYROGRAM_V2_SESSION": {
       "description": "Enter Pyrogram V2 session string ...",
       "value": "",
-      "required": false
+      "required": true
     },
 
     "LOG_GROUP": {
-      "description": "Enter Log Channel/Group ID (-100) and make bot admin there",
+      "description": "-1002173224465",
       "value": "",
       "required": true
     }
